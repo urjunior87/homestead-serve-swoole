@@ -4,6 +4,8 @@ When **"vagrant reload --provision"**, this shell script will generate nginx con
 After download the shell script, move file into Homestead/scripts folder, give it a file name as serve-swoole.sh
 
 
+
+**Your Homestead.yaml must look like this**
 ```
 sites:
     - map: yourdomain.test
