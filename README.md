@@ -1,7 +1,7 @@
 # homestead-serve-swoole
 When **"vagrant reload --provision"**, this shell script will generate nginx config for you.
 
-After download the shell script, move into Homestead/scripts folder, give it a name as serve-swoole.sh
+After download the shell script, move file into Homestead/scripts folder, give it a file name as serve-swoole.sh
 
 
 ```
@@ -14,3 +14,6 @@ sites:
 
 Make sure fill in:
 **<project_dir>** **<port_number>**
+
+
+After that ssh into your project directory, and start your swoole http server.
