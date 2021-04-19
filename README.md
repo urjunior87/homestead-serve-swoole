@@ -12,5 +12,5 @@ sites:
 ```
 
 
-Make sure fill:
+Make sure fill in:
 **<project_dir>** **<port_number>**
